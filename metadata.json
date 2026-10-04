@@ -1,0 +1,6 @@
+{
+  "name": "Linkora – Universal Web Media Downloader & Analyzer",
+  "description": "Fast, secure, and privacy-conscious media downloader and audio/video analyzer for public web links. Inspect resolutions and extract high-quality streams with zero registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
